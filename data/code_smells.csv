@@ -1,0 +1,10 @@
+label,provider,module,variation,individual_smells,lines
+Projeto Base,Base,Projeto,Referência,43,
+Carrinho Gratuito,Gratuita,Carrinho,Único,7,667
+Checkout Gratuito,Gratuita,Checkout,Único,20,916
+Login Gratuito Minificado,Gratuita,Login,Minificado,28,84
+Login Gratuito Completo,Gratuita,Login,Completo,32,1622
+Carrinho Pago,Paga,Carrinho,Único,0,916
+Login Pago,Paga,Login,Único,27,4353
+Checkout Único,Paga,Checkout,Único,32,3876
+Checkout Pago Fracionado,Paga,Checkout,Fracionado,134,2618
